@@ -1,0 +1,22 @@
+{
+  "name": "email-listing---web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PraiseJah Moses",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.75",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-oauth-server": "^2.0.0",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.16",
+    "oauth2-server": "^3.1.1"
+  }
+}
