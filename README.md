@@ -17,4 +17,6 @@ Clone repository and intall all node modules
 
 npm i 
 or
-yarn instal
+yarn install
+
+You all need a Mailchimp API key for functionality
