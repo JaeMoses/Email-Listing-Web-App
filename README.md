@@ -19,4 +19,4 @@ npm i
 or
 yarn install
 
-You all need a Mailchimp API key for functionality
+You also need a Mailchimp API key for functionality
